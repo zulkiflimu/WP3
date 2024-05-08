@@ -57,4 +57,4 @@ ng/' . $t['id_buku']); ?>" onclick="return_konfirm('Yakin tidak Jadi Booking '.$
     </center>
 </div>
 
-<!-- Pertemuan 4 -->
+// Pertemuan 4
