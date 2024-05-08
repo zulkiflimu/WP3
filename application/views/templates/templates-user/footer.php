@@ -19,4 +19,5 @@ js"></script>
 </script>
 </body>
 </html>
-// Pertemuan 2
+
+<!-- Pertemuan 2 -->
